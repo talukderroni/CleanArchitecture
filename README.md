@@ -12,8 +12,8 @@ The Separation Layer Provides Maintanable Application.
 The Domain layer consists of all Model or Entities Class of the entire Application.It Sperate the Application From Other layers.It Does not depend on other Layer
 
 # Application Layer
-
 This Layer mainly consists of the Business Logic and Services and All other Interfaces. Service like  Email Can be Included Here.
+
 ![OnionMainLayer](https://user-images.githubusercontent.com/28187435/155490988-aa19c512-bb37-49ad-a61c-d966a866080e.png)
 
 # Infrastructure Layer
