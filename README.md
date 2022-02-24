@@ -18,12 +18,10 @@ This Layer mainly consists of the Business Logic and Services and All other Inte
 
 # Infrastructure Layer
 The Database Context Class is InCluded Here.And Other Dependecy Injection like Invertion of Controll is also Applied in this layer.
-Sinced this Layer is Dependent on Domain That's why You have to Add Referece to this Class Library.For DbContext class You have to add EntityFrameWork references.
+Since this Layer is Dependent on Domain That's why You have to Add Referece to this Class Library.For DbContext class You have to add EntityFrameWork references.
 
 # UI Layer
-This is the entry Point of your Application.It Currently use The MVC architecture. The Area , Controller ,Content ,View and Config file is Included Here.
+This is the entry Point of your Application.It Currently use The MVC architecture. The Area , Controller ,Content ,View and Config file is Included Here.Since this Layer is Dependent on Domain That's why You have to Add Referece to this
 You can also Add another layer like Api and Test For optimize the Application.
-
-
 
 ![allLayer](https://user-images.githubusercontent.com/28187435/155491043-c4826502-6b41-42da-a5e1-40b426f8033e.png)
